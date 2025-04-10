@@ -1,4 +1,4 @@
-# CSS-Projects
+# Business Card
 A simple digital business card built by HTML and CSS only.
 
 It's simply amazing.
