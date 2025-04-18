@@ -5,4 +5,9 @@ It's simply amazing.
 
 Check it out on
 
-```https://joshwizard.github.io/CSS-Projects/```
+https://joshwizard.github.io/Business-card/
+
+Final product.
+
+![Digital Business Card](joshwizard.github.io_Business-card_.png)
+
